@@ -1,0 +1,33 @@
+/* body {
+  background-image: url("https://images.pexels.com/photos/159291/beer-machine-alcohol-brewery-159291.jpeg?cs=srgb&dl=pexels-pixabay-159291.jpg&fm=jpg");
+} */
+
+/* table,
+td {
+  background-color: transparent !important;
+} */
+
+#description {
+  background-color: black;
+  opacity: 0.6;
+  border: 1px solid white;
+  border-radius: 5px;
+  text-align: center;
+  overflow: auto;
+  color: white;
+}
+
+.col-md-4 {
+  max-height: 500px !important;
+}
+
+/* table {
+  background-color: transparent;
+}  */
+
+#footer {
+  background-color: black;
+  color: white;
+  font-size: small;
+  margin-top: 20px;
+}
